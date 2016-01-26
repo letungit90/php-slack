@@ -96,7 +96,6 @@ class Commander {
             'token'    => true,
             'endpoint' => '/chat.postMessage',
             'format'   => [
-                'text',
                 'username'
             ]
         ],
